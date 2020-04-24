@@ -1,0 +1,53 @@
+h1, body {
+  color: #e09ad7;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  background-color: #033807;
+}
+
+h1 {
+  text-shadow: 4px 4px 4px #4c534c;
+}
+
+.header {
+  font-size: 20px;
+}
+.header--small {
+  font-size: 10px;
+}
+.header--large {
+  font-size: 30px;
+}
+.header--xl {
+  font-size: 40px;
+}
+
+ul {
+  list-style: none;
+  text-align: right;
+}
+ul li {
+  display: inline;
+  font-size: 3rem;
+  text-shadow: 2px 2px 2px #d473c8;
+}
+ul li:hover {
+  color: #c03baf;
+  text-shadow: 6px 6px 6px #992f8b;
+}
+ul li.item {
+  font-size: 20px;
+}
+ul li.item--small {
+  font-size: 10px;
+}
+ul li.item--large {
+  font-size: 30px;
+}
+ul li.item--xl {
+  font-size: 40px;
+}
+
+/*# sourceMappingURL=styles.css.map */
